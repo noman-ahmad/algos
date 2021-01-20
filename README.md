@@ -6,6 +6,9 @@ Structure:
 - Each subfolder represents a category (greedy algos, graph algos, dynamic programming, etc.) 
 - Each category will contain one su folder corresponding to material for one problem. 
 
+Categories: 
+- CTCI - problems taken from "Cracking the Coding Interview" Book
+
 Problems: 
 - Will be taken from (or inspired by) other problems found on leetcode, hackerrank, clrs text, etc. 
 
